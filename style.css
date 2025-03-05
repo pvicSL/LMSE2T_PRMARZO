@@ -46,3 +46,25 @@ td.tabla-cabecera-texto {
     color: whitesmoke;
     opacity: 0.5;
 }
+
+/*FORMATO DE TD Y TR*/
+td {
+    width: 40px;
+    height: 45px;
+    font-family: "Street";
+    border: 2px solid gray;
+    border-radius: 10px;
+    font-size: 18px;
+    font-style: bold;
+    color: darkorange;
+    text-align: center;
+}
+
+/*FORMATO DEL BODY*/
+body {
+    background-image: url(img/fondo2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
